@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "E:\\HomeWork\\TournamentScore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|e:\\homework\\tournamentscore\\tournamentscore.server\\controllers\\scoreboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|solutionrelative:tournamentscore.server\\controllers\\scoreboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|e:\\homework\\tournamentscore\\tournamentscore.server\\dtos\\scoreboardupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|solutionrelative:tournamentscore.server\\dtos\\scoreboardupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|e:\\homework\\tournamentscore\\tournamentscore.server\\configurations\\updatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|solutionrelative:tournamentscore.server\\configurations\\updatehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|e:\\homework\\tournamentscore\\tournamentscore.server\\services\\scoreboardstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|solutionrelative:tournamentscore.server\\services\\scoreboardstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|e:\\homework\\tournamentscore\\tournamentscore.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|solutionrelative:tournamentscore.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89907668-DE92-0F16-A159-024C55A4420F}|tournamentscore.client\\tournamentscore.client.esproj|e:\\homework\\tournamentscore\\tournamentscore.client\\src\\scoreboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{89907668-DE92-0F16-A159-024C55A4420F}|tournamentscore.client\\tournamentscore.client.esproj|solutionrelative:tournamentscore.client\\src\\scoreboard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{89907668-DE92-0F16-A159-024C55A4420F}|tournamentscore.client\\tournamentscore.client.esproj|e:\\homework\\tournamentscore\\tournamentscore.client\\src\\hubconnector.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{89907668-DE92-0F16-A159-024C55A4420F}|tournamentscore.client\\tournamentscore.client.esproj|solutionrelative:tournamentscore.client\\src\\hubconnector.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|e:\\homework\\tournamentscore\\tournamentscore.server\\services\\signalrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|solutionrelative:tournamentscore.server\\services\\signalrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|e:\\homework\\tournamentscore\\tournamentscore.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF2EEFC2-8CD4-48F0-B7DD-0B23D00DB742}|TournamentScore.Server\\TournamentScore.Server.csproj|solutionrelative:tournamentscore.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89907668-DE92-0F16-A159-024C55A4420F}|tournamentscore.client\\tournamentscore.client.esproj|e:\\homework\\tournamentscore\\tournamentscore.client\\src\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{89907668-DE92-0F16-A159-024C55A4420F}|tournamentscore.client\\tournamentscore.client.esproj|solutionrelative:tournamentscore.client\\src\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89907668-DE92-0F16-A159-024C55A4420F}|tournamentscore.client\\tournamentscore.client.esproj|e:\\homework\\tournamentscore\\tournamentscore.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89907668-DE92-0F16-A159-024C55A4420F}|tournamentscore.client\\tournamentscore.client.esproj|solutionrelative:tournamentscore.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "main.css",
               "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\tournamentscore.client\\src\\main.css",
               "RelativeDocumentMoniker": "tournamentscore.client\\src\\main.css",
@@ -35,16 +71,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ScoreboardState.cs",
+              "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Services\\ScoreboardState.cs",
+              "RelativeDocumentMoniker": "TournamentScore.Server\\Services\\ScoreboardState.cs",
+              "ToolTip": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Services\\ScoreboardState.cs*",
+              "RelativeToolTip": "TournamentScore.Server\\Services\\ScoreboardState.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:21:55.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreboardUpdateRequestDTO.cs",
+              "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\DTOs\\ScoreboardUpdateRequestDTO.cs",
+              "RelativeDocumentMoniker": "TournamentScore.Server\\DTOs\\ScoreboardUpdateRequestDTO.cs",
+              "ToolTip": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\DTOs\\ScoreboardUpdateRequestDTO.cs",
+              "RelativeToolTip": "TournamentScore.Server\\DTOs\\ScoreboardUpdateRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T16:40:01.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ScoreBoard.tsx",
               "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\tournamentscore.client\\src\\ScoreBoard.tsx",
               "RelativeDocumentMoniker": "tournamentscore.client\\src\\ScoreBoard.tsx",
               "ToolTip": "E:\\HomeWork\\TournamentScore\\tournamentscore.client\\src\\ScoreBoard.tsx",
               "RelativeToolTip": "tournamentscore.client\\src\\ScoreBoard.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-07-04T19:23:39.13Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreboardController.cs",
+              "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Controllers\\ScoreboardController.cs",
+              "RelativeDocumentMoniker": "TournamentScore.Server\\Controllers\\ScoreboardController.cs",
+              "ToolTip": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Controllers\\ScoreboardController.cs",
+              "RelativeToolTip": "TournamentScore.Server\\Controllers\\ScoreboardController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T16:37:55.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TournamentScore.Server\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TournamentScore.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-20T17:02:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TournamentScore.Server\\Program.cs",
+              "ToolTip": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Program.cs",
+              "RelativeToolTip": "TournamentScore.Server\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T13:01:53.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateHub.cs",
+              "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Configurations\\UpdateHub.cs",
+              "RelativeDocumentMoniker": "TournamentScore.Server\\Configurations\\UpdateHub.cs",
+              "ToolTip": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Configurations\\UpdateHub.cs",
+              "RelativeToolTip": "TournamentScore.Server\\Configurations\\UpdateHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T12:59:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignalRService.cs",
+              "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Services\\SignalRService.cs",
+              "RelativeDocumentMoniker": "TournamentScore.Server\\Services\\SignalRService.cs",
+              "ToolTip": "E:\\HomeWork\\TournamentScore\\TournamentScore.Server\\Services\\SignalRService.cs",
+              "RelativeToolTip": "TournamentScore.Server\\Services\\SignalRService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T13:03:18.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HubConnector.ts",
+              "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\tournamentscore.client\\src\\HubConnector.ts",
+              "RelativeDocumentMoniker": "tournamentscore.client\\src\\HubConnector.ts",
+              "ToolTip": "E:\\HomeWork\\TournamentScore\\tournamentscore.client\\src\\HubConnector.ts",
+              "RelativeToolTip": "tournamentscore.client\\src\\HubConnector.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-09-20T13:17:39.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\HomeWork\\TournamentScore\\tournamentscore.client\\package.json",
+              "RelativeDocumentMoniker": "tournamentscore.client\\package.json",
+              "ToolTip": "E:\\HomeWork\\TournamentScore\\tournamentscore.client\\package.json",
+              "RelativeToolTip": "tournamentscore.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-20T13:15:54.622Z"
             }
           ]
         }

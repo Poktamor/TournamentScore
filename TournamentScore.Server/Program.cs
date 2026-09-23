@@ -1,4 +1,7 @@
 
+using TournamentScore.Server.Configurations;
+using TournamentScore.Server.Services;
+
 namespace TournamentScore.Server
 {
     public class Program
@@ -14,7 +17,26 @@ namespace TournamentScore.Server
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("Frontend", policy =>
+                {
+                    policy
+                        .WithOrigins("https://localhost:30203")
+                        .AllowAnyHeader()
+                        .AllowAnyMethod()
+                        .AllowCredentials();
+                });
+            });
+
+            builder.Services.AddSignalR();
+
+            builder.Services.AddSingleton<ScoreboardState>();
+            builder.Services.AddScoped<SignalRService>();
+
             var app = builder.Build();
+
+            app.UseCors("Frontend");
 
             app.UseDefaultFiles();
             app.UseStaticFiles();
@@ -34,6 +56,8 @@ namespace TournamentScore.Server
             app.MapControllers();
 
             app.MapFallbackToFile("/index.html");
+
+            app.MapHub<UpdateHub>("/hubs/updates");
 
             app.Run();
         }

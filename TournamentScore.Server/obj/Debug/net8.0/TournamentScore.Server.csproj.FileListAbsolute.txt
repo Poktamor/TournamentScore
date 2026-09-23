@@ -36,3 +36,15 @@ E:\HomeWork\TournamentScore\TournamentScore.Server\obj\Debug\net8.0\refint\Tourn
 E:\HomeWork\TournamentScore\TournamentScore.Server\obj\Debug\net8.0\TournamentScore.Server.pdb
 E:\HomeWork\TournamentScore\TournamentScore.Server\obj\Debug\net8.0\TournamentScore.Server.genruntimeconfig.cache
 E:\HomeWork\TournamentScore\TournamentScore.Server\obj\Debug\net8.0\ref\TournamentScore.Server.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\System.Text.Json.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\HomeWork\TournamentScore\TournamentScore.Server\obj\Debug\net8.0\TournamentScore.Server.sourcelink.json
