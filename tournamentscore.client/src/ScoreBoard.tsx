@@ -5,16 +5,10 @@ import player2Score from "./assets/Player2Score.svg";
 
 import { useEffect, useState } from "react";
 import * as signalR from "@microsoft/signalr";
-
-interface ScoreBoard {
-    player1Name: string;
-    player2Name: string;
-    player1Score: number;
-    player2Score: number;
-}
+import type { IScoreBoard } from "./ScoreBoardService";
 
 const ScoreBoard = () => {
-    const [scoreBoard, setScoreBoard] = useState<ScoreBoard | null>(null);
+    const [scoreBoard, setScoreBoard] = useState<IScoreBoard | null>(null);
 
     useEffect(() => {
         const loadScore = async () => {
@@ -27,7 +21,7 @@ const ScoreBoard = () => {
                     throw new Error(`HTTP error: ${response.status}`);
                 }
 
-                const data: ScoreBoard = await response.json();
+                const data: IScoreBoard = await response.json();
 
                 setScoreBoard(data);
             } catch (error) {
