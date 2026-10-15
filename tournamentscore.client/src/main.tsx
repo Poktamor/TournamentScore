@@ -4,6 +4,7 @@ import { createRoot } from 'react-dom/client'
 import './main.css'
 import ScoreBoard from './ScoreBoard.tsx'
 import ScoreBoardControl from './ScoreBoardControl.tsx'
+import "bootstrap/dist/css/bootstrap.min.css";
 
 createRoot(document.getElementById('root')!).render(
     <StrictMode>

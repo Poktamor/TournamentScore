@@ -7,14 +7,18 @@ import { useEffect, useState } from "react";
 import * as signalR from "@microsoft/signalr";
 import type { IScoreBoard } from "./ScoreBoardService";
 
-const ScoreBoard = () => {
-    const [scoreBoard, setScoreBoard] = useState<IScoreBoard | null>(null);
 
+
+const ScoreBoard = () => {
+    const API_URL = window.APP_CONFIG.API_URL;
+
+    const [scoreBoard, setScoreBoard] = useState<IScoreBoard | null>(null);
+    //fetch(`${API_URL}/api/users`);
     useEffect(() => {
         const loadScore = async () => {
             try {
                 const response = await fetch(
-                    "https://localhost:7170/api/scoreboard/get"
+                    `${API_URL}/api/scoreboard/get`
                 );
 
                 if (!response.ok) {
@@ -32,7 +36,7 @@ const ScoreBoard = () => {
         loadScore();
 
         const connection = new signalR.HubConnectionBuilder()
-            .withUrl("https://localhost:7170/hubs/updates")
+            .withUrl(`${API_URL}/hubs/updates`)
             .build(); 
 
         connection.on("UpdateScoreBoard", (player1Name: string, player2Name: string, player1Score: number, player2Score: number) => {

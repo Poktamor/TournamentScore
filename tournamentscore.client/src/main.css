@@ -20,26 +20,26 @@ body {
     color: white;
     font-weight: bold;
     font-size: 35px;
-/*    font-family: MaruGothic;*/
+/*    font-family: MaruGothic !important;*/
 }
 
-#player1Container, #player2Container {
-    display: flex;
-}
+    #player1Container, #player2Container {
+        display: flex;
+    }
 
 .centered {
     position: absolute;
-    top: 45%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 .left {
     position: absolute;
-    top:15%;
+    top:10%;
     left:10%;
 }
 .right {
     position: absolute;
-    top: 15%;
+    top: 10%;
     right: 10%; 
 }
